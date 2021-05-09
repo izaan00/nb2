@@ -12,8 +12,8 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.packname = '\n     '
-global.author = ''
+global.packname = 'Nebalo\n     🔥🔥'
+global.author = '🔐👑'
 
 global.multiplier = 69 // The higher, The harder levelup
 
