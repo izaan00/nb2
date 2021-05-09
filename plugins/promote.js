@@ -21,7 +21,7 @@ try {
 } catch (e) {
 		} finally {
 			conn.groupMakeAdmin(m.chat, [user]).catch(console.log)
-			conn.reply(m.chat, `*Target has promoted.*`, m)
+			conn.reply(m.chat, `*Ahora eres administrador.*`, m)
 	}	
 }
 handler.help = ['*62xx*','*@user*','*(reply)*'].map(v => 'promote ' + v)
